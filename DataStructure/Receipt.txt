@@ -1,0 +1,7 @@
+	YOUR ORDERED DRINK(s)
+ORDER   CODE	DRINK'S NAME                     PRICE(RM)    SUGAR(%)         ICE           ADD-ON(s)
+ 1)       A02	ORIGINAL_BUBBLE_MILK_TEA            4.90        100          Normal         *No Add-on*
+ 2)       A03	ORIGINAL_BUBBLE_MILK_RED_TEA        4.90        100          Normal         *No Add-on*
+ 3)       D10	DOUBLE_CHOCOLATE_SMOOTHIE           9.90        100          Normal         *No Add-on*
+_________________________________________________________________________________________________________
+TOTAL PRICE                                     RM 19.70
